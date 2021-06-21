@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "XBInterActiveAdSDK"
-  spec.version      = "2.0.0"
+  spec.version      = "2.0.1"
   spec.summary      = "A short description of XBInterActiveAdSDK."
 
   spec.description  = <<-DESC

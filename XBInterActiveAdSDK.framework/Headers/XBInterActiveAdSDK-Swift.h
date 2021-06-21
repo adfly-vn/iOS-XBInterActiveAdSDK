@@ -232,6 +232,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) XBInterActiv
 + (XBInterActiveAdManager * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (void)startWithAppKey:(NSString * _Nonnull)appKey appSecret:(NSString * _Nonnull)appSecret complete:(void (^ _Nullable)(XBError * _Nullable))complete;
 /// showAd* scale
+/// \param widgetId 部件id， widget id
+///
 /// \param scale view size (100 * scale, 100 * scale)
 ///
 /// \param origin 
@@ -488,6 +490,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) XBInterActiv
 + (XBInterActiveAdManager * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (void)startWithAppKey:(NSString * _Nonnull)appKey appSecret:(NSString * _Nonnull)appSecret complete:(void (^ _Nullable)(XBError * _Nullable))complete;
 /// showAd* scale
+/// \param widgetId 部件id， widget id
+///
 /// \param scale view size (100 * scale, 100 * scale)
 ///
 /// \param origin 
@@ -747,6 +751,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) XBInterActiv
 + (XBInterActiveAdManager * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (void)startWithAppKey:(NSString * _Nonnull)appKey appSecret:(NSString * _Nonnull)appSecret complete:(void (^ _Nullable)(XBError * _Nullable))complete;
 /// showAd* scale
+/// \param widgetId 部件id， widget id
+///
 /// \param scale view size (100 * scale, 100 * scale)
 ///
 /// \param origin 
@@ -1003,6 +1009,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) XBInterActiv
 + (XBInterActiveAdManager * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (void)startWithAppKey:(NSString * _Nonnull)appKey appSecret:(NSString * _Nonnull)appSecret complete:(void (^ _Nullable)(XBError * _Nullable))complete;
 /// showAd* scale
+/// \param widgetId 部件id， widget id
+///
 /// \param scale view size (100 * scale, 100 * scale)
 ///
 /// \param origin 
@@ -1259,6 +1267,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) XBInterActiv
 + (XBInterActiveAdManager * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (void)startWithAppKey:(NSString * _Nonnull)appKey appSecret:(NSString * _Nonnull)appSecret complete:(void (^ _Nullable)(XBError * _Nullable))complete;
 /// showAd* scale
+/// \param widgetId 部件id， widget id
+///
 /// \param scale view size (100 * scale, 100 * scale)
 ///
 /// \param origin 

@@ -4,6 +4,6 @@
 target 'test2' do
   use_frameworks!
 
-  pod 'XBInterActiveAdSDK', '~> 2.0.0'
+  pod 'XBInterActiveAdSDK', '~> 2.0.1'
 
 end
