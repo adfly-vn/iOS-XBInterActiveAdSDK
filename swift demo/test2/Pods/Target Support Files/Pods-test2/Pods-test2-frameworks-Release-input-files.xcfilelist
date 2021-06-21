@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-test2/Pods-test2-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${PODS_ROOT}/XBInterActiveAdSDK/XBInterActiveAdSDK.framework

@@ -1,0 +1,11 @@
+framework module XBInterActiveAdSDK {
+  umbrella header "XBInterActiveAdSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module XBInterActiveAdSDK.Swift {
+    header "XBInterActiveAdSDK-Swift.h"
+    requires objc
+}
